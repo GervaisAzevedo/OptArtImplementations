@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100pt" height="100pt" viewBox="0 0 100 100" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface110" clip-path="url(#clip1)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 50 50 C 25 25 25 25 0 0 L 50 0 Z M 50 50 "/>
+</g>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface117" clip-path="url(#clip2)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 C 25 25 25 25 50 50 L 0 50 Z M 0 0 "/>
+</g>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface124" clip-path="url(#clip3)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 C 25 25 25 25 50 50 L 0 50 Z M 0 0 "/>
+</g>
+<image id="image131" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAABmJLR0QA/wD/AP+gvaeTAAAA5ElEQVRYhc3UuRXDMAwEUQXqmS2wY4brwNaTqYMHCGAxFfxotpzzFjAAEWUAIspwFEuGvwLJUBdFhlshZHdWCNkjiy97Y5FlDRZT1mbRZF0WRzbCIsgGWd6ycZarbIrlJ5tlOckELA+ZjGUuE7NsZSssQ9kiy0q2zjKRqbD0ZVosZZkiS1Omy1KTqbN0ZBYsBZkRa1Vmx1qSmbLkMmuWUObAksh8WNMyN9aczJM1IXNmjcr8WUMyCqsvY7E6MiKrJeOyXmVsFfAoY5N+XWVsz1klY2OqThlbcu0r21tPY5RSKqV8AETiDXFzPkiMAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface104">
+<rect x="0" y="0" width="100" height="100" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<use xlink:href="#surface110"/>
+<use xlink:href="#surface117" transform="matrix(1,0,0,1,50,0)"/>
+<use xlink:href="#surface124" transform="matrix(1,0,0,1,0,50)"/>
+<use xlink:href="#image131" transform="matrix(1,0,0,1,50,50)"/>
+</g>
+</svg>

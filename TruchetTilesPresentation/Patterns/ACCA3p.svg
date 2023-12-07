@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100pt" height="100pt" viewBox="0 0 100 100" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip1)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 50 50 C 47.5 2.5 47.5 2.5 0 0 L 50 0 Z M 50 50 "/>
+</g>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface19" clip-path="url(#clip2)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 C 17.5 32.5 17.5 32.5 50 50 L 0 50 Z M 0 0 "/>
+</g>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="50" height="50"/>
+</clipPath>
+<g id="surface26" clip-path="url(#clip3)">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 C 47.5 2.5 47.5 2.5 50 50 L 0 50 Z M 0 0 "/>
+</g>
+<image id="image33" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAABmJLR0QA/wD/AP+gvaeTAAAB4ElEQVRYhc3YvcriQBTG8eA3YiF+dYK92OgNiBAEwVrBXgtBsPIOVCwklgGvwDK1KbyBaCPYBGF6pwxIMj5bDC6KC/vuu6/O+V/Brxg454ym67pGsMPhEAqFVCteAtDr9VQrXgJwPp/j8bhqyHMAAIzHY9WQ5ySLc57JZFRbHsK96XSq2vLQb5bnecViUTXnHh5ar9eqOfceWUEQlMtl1SJN055ZACzLUi3SNO2FBaDZbKpG/Yl1PB4jkQg5FoDhcEiRxTnPZrPkWABWqxVFlu/7lUqFHAvAdrulyALQbrcpslzXTSaT5FgAFosFRVYQBLVajRwLgOM4sViMHAvAbDajyBJCNBoNciwAjLFcLkeOBcC27Q8tF//EArBcLimyAAwGA4osIUS32yXHAnC9XlutFjmWlHU6HXIsAEKId72z/2HJTNOMRqPkWAB2u12hUCDHAsAYq9fr5FgAbrebYRg/s2v8IEu23++r1So5FgDf9w3DSKVStFgy13W/f6G8jyWzbfs79+a7WQB83zdNM5/P02LJOOej0eir69rHWLLT6fSlGf9hlsyyrL/8hiphARBCbDabUqlEiyXzPG8+n6fTaVos2eVymUwmiUSCFkvGGOv3++FwmBZL5jiOruu/AFXZrW1KUiyvAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface6">
+<rect x="0" y="0" width="100" height="100" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<use xlink:href="#surface12"/>
+<use xlink:href="#surface19" transform="matrix(1,0,0,1,50,0)"/>
+<use xlink:href="#surface26" transform="matrix(1,0,0,1,0,50)"/>
+<use xlink:href="#image33" transform="matrix(1,0,0,1,50,50)"/>
+</g>
+</svg>
